@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Lovelo';
+    src: url('fonts/Lovelo Black.otf');
+}
+
+@font-face {
+    font-family: 'PoppinsMedium';
+    src: url("fonts/FontsFree-Net-Poppins-Medium.ttf");
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #172A3A;
+    color: #F7F9F7;
+    font-family: PoppinsMedium;
+}
+
+header {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    background-color: #508991;
+    padding: 20px;
+    text-align: center;
+}
+
+.meunome h1{
+    font-size: 60px;
+    font-family: Lovelo;
+}
+
+.meunome p{
+    font-size: 20px;
+}
+
+header img{
+    height: 400px;
+    border-radius: 500px;
+}
+
+section {
+    padding: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#bio {
+    background-color: #5db1b1;
+    margin-top: 20px;
+}
+
+#skills {
+    background-color: #09BC8A;
+}
+
+#activities {
+    background-color: #004346;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+p {
+    line-height: 1.6;
+    padding: 0% 15% 0% 15%;
+}
+
+footer {
+    background-color: #004346;
+    padding: 10px;
+    text-align: center;
+}
