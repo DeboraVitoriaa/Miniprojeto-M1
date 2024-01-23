@@ -1,1 +1,1 @@
-https://github.com/DeboraVitoriaa/Miniprojeto-M1.git
+https://deboravitoriaa.github.io/Miniprojeto-M1/
